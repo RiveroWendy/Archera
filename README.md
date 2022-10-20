@@ -1,3 +1,3 @@
 # Archera
 
-Project for the Game Jam '2 Reto Gamedev' https://wenyarts.itch.io/archera
+Project for the Game Jam '2 Reto Gamedev' https://wendyrivero.itch.io/archera
